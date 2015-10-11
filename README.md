@@ -1,6 +1,7 @@
 # Pokéname!
 
 [![Gem Version](https://badge.fury.io/rb/pokename.svg)](https://rubygems.org/gems/pokename)
+[ ![Codeship Status for caiodangelo/pokename](https://codeship.com/projects/f6c3c3a0-51fd-0133-196a-3289b2b41ce8/status?branch=master)](https://codeship.com/projects/108018)
 
 Choose a random Pokémon name to name your project.
 
